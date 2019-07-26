@@ -1,0 +1,12 @@
+Word2Vec Model
+Word2Vec Google's Pretrained Model
+Contains vector representations of 50 billion words
+
+Words which are similar in context have similar vectors
+
+Distance/Similarity between two words can be measured using Cosine Distance
+Applications
+Text Similarity
+Odd one Out
+Fill in the Blanks
+Word Analogies
