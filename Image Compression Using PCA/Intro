@@ -1,0 +1,26 @@
+In this advanced information era, efficient transmission of digital images has become a major challenge in
+information technology. Vast volumes of digital images are shared over Internet every day. In the meantime, the
+number of people who are using mobile devices to access to Internet is increasing exponentially. High resolution
+images need greater bits for storage and transmission. It would take considerable time to fully render a high
+resolution image on the browser screen. Considering the bandwidth consumption over multimedia communication,
+having an effective compression coding scheme with low bitrates is crucial to enable the effective and fast
+transmission of image data over the network.Bitrate refers to the number of bits—or the amount of data—that are 
+processed over a certain amount of time. In audio, this usually means kilobits per second. For example, the music
+you buy on iTunes is 256 kilobits per second, meaning there are 256 kilobits of data stored in every second of a song.
+The underlying basis of image compression is reducing the amount of data (bits) used to represent the image. 
+The compression process removes redundant data (details) from the image contents. There are two types of compression 
+methods: lossy and lossless. The formal method discards redundant
+data from the image content to reduce the image file size. This method will cause the information loss during the
+compression process. Thus, the resulting image will have a tolerable degree of degradation in the visual quality.
+Lossy compression has been widely applied on multimedia file where the quality loss of the resulting digital media
+is not noticeable but the file size can be reduced significantly. On the other hand, lossless compression maintains the
+quality of the original file when the file is decompressed.
+This study applies the statistical approach to discard the redundant features of digital images that consume the
+storage space. Generally, high resolution image can be perceived as high-dimensional data. Image data is
+represented in the form of two-dimensional matrix pixel in a problem space. Each pixel element contains bits value
+for RGB to represents a pixel's colour. Principal Component Analysis (PCA) is a technique to reduce the
+dimension space presented by mathematic functions. This technique extracts the fundamental properties of a linear
+system. PCA has been widely applied to discard noise data in digital signal
+processing, image recognition as well as solving classification problems.
+The transmission time of the original and the resulting
+image can be compared in two different modes of Internet access which is via desktop and mobile devices. 
